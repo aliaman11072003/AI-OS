@@ -207,10 +207,3 @@ Built with ❤️ using:
 * [AutoGen](https://microsoft.github.io/autogen/)
 
 ```
-
----
-
-Would you like:
-- A matching `install.sh` that installs Whisper, Ollama, Python deps?
-- A real `ai-shell` prototype script with GPT or Ollama support?
-```
